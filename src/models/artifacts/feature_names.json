@@ -1,0 +1,20 @@
+[
+  "call_minutes_30d",
+  "sms_count_30d",
+  "data_mb_30d",
+  "recharge_count_30d",
+  "recharge_amount_30d",
+  "last_recharge_days",
+  "support_tickets_90d",
+  "arpu_last_3m",
+  "contract_months",
+  "network_quality_score",
+  "usage_trend_30d",
+  "recharge_gap",
+  "data_burn_rate",
+  "support_ticket_rate",
+  "arpu_drop",
+  "recharge_intensity",
+  "value_score",
+  "segment_encoded"
+]

@@ -1,0 +1,15 @@
+{
+  "subscriber_id": "MSISDN-001234",
+  "call_minutes_30d": 310.5,
+  "sms_count_30d": 42,
+  "data_mb_30d": 2048.0,
+  "recharge_count_30d": 5,
+  "recharge_amount_30d": 420.0,
+  "last_recharge_days": 3,
+  "support_tickets_90d": 0,
+  "arpu_last_3m": 140.0,
+  "contract_months": 18,
+  "network_quality_score": 4.0,
+  "segment": "Prepaid",
+  "usage_prev_month_ratio": 1.05
+}
