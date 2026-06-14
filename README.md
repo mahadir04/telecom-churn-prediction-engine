@@ -1,6 +1,6 @@
 # 📡 Telecom Churn Prediction Engine
 
-> **Subscriber Retention Intelligence for Banglalink CVM Division**  
+> **Subscriber Retention Intelligence for Telecom CVM Division**  
 > XGBoost · SHAP · Flask REST API · Streamlit Dashboard · PostgreSQL
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
@@ -413,4 +413,4 @@ MIT — free to use, modify, and deploy for commercial and non-commercial purpos
 
 ---
 
-*Built for Banglalink's Customer Value Management (CVM) division. All data is synthetic.*
+*Built for telecom's Customer Value Management (CVM) division. All data is synthetic.*
